@@ -1,4 +1,4 @@
-#about {
+/*#about {
     background-color: #818181;
     color: #fff;
 }
@@ -12,7 +12,7 @@
     bottom: 0;
     position: absolute;
     width: 115px;
-}
+}*/
 
 #google-map {
     padding: 0;
@@ -43,7 +43,8 @@
 }
 
 #nowosci .overlay {
-    background-color: rgba(129,129,129, 0.78);
+    /*background-color: rgba(129,129,129, 0.78);*/
+    background-color: rgba(15,155,224, 0.78);
     padding: 70px 0 40px;
 }
 
