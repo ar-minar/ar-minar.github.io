@@ -21,6 +21,12 @@
 	background-size: cover;
 	height: 100%;
 	width: 100%;
+		  background-attachment: fixed;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 /* Custom navigation arrows */
